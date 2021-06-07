@@ -1,5 +1,4 @@
-import vita from './vita.png';
-import rhoba from './rhoba.jpg';
+
 import React from 'react';
 import './App.css';
 
