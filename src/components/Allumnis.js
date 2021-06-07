@@ -1,6 +1,6 @@
 import React from 'react';
 
-import vita from './vita.png';
+
 import rhoba from './rhoba.jpg';
 
 

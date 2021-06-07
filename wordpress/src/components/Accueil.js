@@ -1,7 +1,6 @@
 import React from 'react';
 import conf from './conf.jpg';
-import vita from './vita.png';
-import rhoba from './rhoba.jpg';
+
 const Accueil = () => {
     return (
     <div className="app2">
